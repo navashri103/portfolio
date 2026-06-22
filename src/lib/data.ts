@@ -14,7 +14,7 @@ export const profile = {
   ],
   quickFacts: [
     { label: "Based in", value: "Chennai, India" },
-    { label: "Education", value: "B.Tech CSE, SRM IST (9.47 CGPA)" },
+    { label: "Education", value: "B.Tech CSE, SRM IST (9.60 CGPA)" },
     { label: "Focus", value: "Full Stack · Python · FastAPI" },
     { label: "Languages", value: "English, Tamil, Telugu, Hindi" },
   ],
@@ -44,7 +44,7 @@ export const journey: JourneyItem[] = [
     title: "B.Tech, Computer Science & Engineering",
     org: "SRM Institute of Science and Technology",
     description:
-      "CGPA: 9.47. Coursework spanning SQL, IoT, AI, Data Structures & Algorithms, and Design & Analysis of Algorithms — with consistent academic excellence across three semesters.",
+      "CGPA: 9.60. Coursework spanning SQL, IoT, AI, Data Structures & Algorithms, and Design & Analysis of Algorithms — with consistent academic excellence across three semesters.",
     tags: ["DSA", "AI", "SQL", "IoT"],
     kind: "education",
   },
